@@ -1,3 +1,6 @@
 [submodule "url_shortener_client"]
 	path = url_shortener_client
 	url = git@github.com:HUrim/url_shortener_client.git
+[submodule "url_shortener_server"]
+	path = url_shortener_server
+	url = git@github.com:HUrim/url_shortener_server.git
